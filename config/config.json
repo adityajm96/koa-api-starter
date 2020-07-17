@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "postgres",
-    "password": "Tata@1234",
+    "password": "Postgres@1234",
     "database": "koa-api-db",
     "host": "127.0.0.1",
     "dialect": "postgres",
